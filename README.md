@@ -21,7 +21,7 @@
         <br>
         Learning the language of the future -- learning to code.
         <br>
-       Passionate about Java and Web development presently.👩‍💻
+       Passionate about Java👩‍💻
     </p>
 </body>
 </html>
