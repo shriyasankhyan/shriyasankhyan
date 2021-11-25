@@ -8,8 +8,7 @@
 <body>
     <big><b>
         <br>
-        <h1> 
-          align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Shriya this side.
+        <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Shriya this side.
         </h1>
         <hr>
         <br>
