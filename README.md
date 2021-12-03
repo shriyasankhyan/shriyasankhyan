@@ -9,7 +9,8 @@
 <!-- <a href="mailto:shriya0690@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
-<!-- <br /> -->
+<br />
+
 
 ### About Me 🚀
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
