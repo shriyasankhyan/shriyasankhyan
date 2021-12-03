@@ -6,9 +6,9 @@
 <a href="https://twitter.com/shriya_sankhyan">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!-- <a href="mailto:shriya0690@gmail.com">
+<a href="mailto:shriya0690@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> -->
+</a>
 <br />
 
 
