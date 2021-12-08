@@ -6,7 +6,7 @@
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
    Passionate about Java👩‍💻 </br>
    </br>
-  
+  ![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
    
 ### Connect with me on :left_speech_bubble:
 <br>	
