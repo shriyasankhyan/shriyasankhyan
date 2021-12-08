@@ -21,7 +21,7 @@
 <a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" ></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/shriya_sankhyan"
-><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Ftwitter-logo%2F&psig=AOvVaw1M7K6sJeECJTbI4aVls-uF&ust=1639060049409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNil3tS01PQCFQAAAAAdAAAAABAQ" width = "110" height = "35"></img></a>
+><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "110" height = "35"></img></a>
 &emsp;
 
 
