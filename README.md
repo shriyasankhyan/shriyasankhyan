@@ -29,7 +29,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia"/><br>
+<<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia"/><br>
  </p>
  
 <br>
@@ -38,7 +38,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
+<p align = "center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 
 <br>
 
