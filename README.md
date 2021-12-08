@@ -1,5 +1,9 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Shriya this side!!!
+##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+[![GitHub followers](https://img.shields.io/github/followers/ligmitz.svg?style=social&label=Followers)](https://github.com/ligmitz?tab=followers)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C64B86&size=30&lines=Hi+there,+I+am+Shriya;A+Software+Developer;)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=ligmitz&label=Views&color=green&style=flat-square" alt="views on github" />
 <a href="https://www.linkedin.com/in/shriya-sankhyan-6717151a9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
