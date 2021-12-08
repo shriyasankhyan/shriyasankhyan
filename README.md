@@ -31,11 +31,16 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia"/><br>
  </p>
+ 
+<br>
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
+
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 
 <br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
 
 <br>
 
