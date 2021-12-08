@@ -47,5 +47,7 @@
 
 <br>
 
+<p align = "center" ><img align="center" src="(https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
+</p>
 ![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
 
