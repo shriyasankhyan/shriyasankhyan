@@ -21,8 +21,8 @@
 
 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="ligmitz"  /></p>
+### 🔥 Github Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="shriyasankhyan"  /></p>
 
 <hr>
 <p align="center">
@@ -39,6 +39,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=gruvbox&hide_border=true&area=true)
   
   
+![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
 
       
    
