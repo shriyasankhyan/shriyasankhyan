@@ -46,6 +46,6 @@
 
 <br>
 
-<p align = "center">
-![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
-  </p>
+<p align = "center" ><img align="center" src=![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
+</p>
+
