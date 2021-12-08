@@ -46,6 +46,6 @@
 <br>
 
 <br>
-<p align = "center">
+
 ![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
-</p>
+
