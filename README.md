@@ -2,11 +2,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/shriyasankhyan.svg?style=social&label=Followers)](https://github.com/shriyasankhyan?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=734f96&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
+  
 ### About Me 🚀
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
    Passionate about Java👩‍💻 </br>
    </br>
-  ![Visitor Count](https://profile-counter.glitch.me/{vashisthabhinav}/count.svg)
+
    
 ### Connect with me on :left_speech_bubble:
 <br>	
@@ -20,7 +21,7 @@
 <a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 &emsp;
 
-
+![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
 
 ### 🔥 Github Stats
 
