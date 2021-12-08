@@ -1,4 +1,4 @@
-##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi!!!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [![GitHub followers](https://img.shields.io/github/followers/shriyasankhyan.svg?style=social&label=Followers)](https://github.com/shriyasankhyan?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C64B86&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
