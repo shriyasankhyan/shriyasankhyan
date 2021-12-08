@@ -22,6 +22,7 @@
 
 
 ### 🔥 Github Stats
+<p align="center"><img src="<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="shriyasankhyan"  /></p>" alt="shriyasankhyan"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="shriyasankhyan"  /></p>
 <p align="center">
