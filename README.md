@@ -18,10 +18,10 @@
 &emsp;
 <a target="_blank" href="https://www.instagram.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "500" height = "100"></img></a>
+<a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" ></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/shriya_sankhyan"
-><img src="https://play-lh.googleusercontent.com/F3QbT147f7ul35y3JQZ597LQL2p-hXS61Py4zMxFX9cV0fpcXlhkjY-iRhrP0vCxQPU=w412-h220-rw"></img></a>
+><img src="https://play-lh.googleusercontent.com/F3QbT147f7ul35y3JQZ597LQL2p-hXS61Py4zMxFX9cV0fpcXlhkjY-iRhrP0vCxQPU=w412-h220-rw"></img width = "100" height = "10"></a>
 &emsp;
 
 
