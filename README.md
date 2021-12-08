@@ -17,7 +17,7 @@
 &emsp;
 <a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 &emsp;
-
+![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
 
 
 
@@ -47,7 +47,5 @@
 
 <br>
 
-<p align = "center" ><img align="center" src="(https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
-</p>
-![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
+
 
