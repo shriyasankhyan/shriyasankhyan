@@ -23,19 +23,17 @@
 
 ### 🔥 Github Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="shriyasankhyan"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=algolia" alt="shriyasankhyan"  /></p>
+<hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- </hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyasankhyan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
 
+<br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=gruvbox&hide_border=true&area=true)
-  
-  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
+
+<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{shriyasankhyan}/count.svg)
-
-      
-   
-     
