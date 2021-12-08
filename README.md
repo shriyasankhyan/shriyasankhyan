@@ -2,6 +2,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/shriyasankhyan.svg?style=social&label=Followers)](https://github.com/shriyasankhyan?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C64B86&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
+### About Me 🚀
+  Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
+   Passionate about Java👩‍💻 </br>
+   
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/shriya-sankhyan-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -16,10 +20,7 @@
 
 
 
-### About Me 🚀
-  Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
-   Passionate about Java👩‍💻 </br>
-   
+
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="ligmitz"  /></p>
 
