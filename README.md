@@ -1,7 +1,7 @@
 ## Hi, there   !!!   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [![GitHub followers](https://img.shields.io/github/followers/shriyasankhyan.svg?style=social&label=Followers)](https://github.com/shriyasankhyan?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=967bb6&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=734f96&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
 ### About Me 🚀
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
    Passionate about Java👩‍💻 </br>
