@@ -6,7 +6,7 @@
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
    Passionate about Java👩‍💻 </br>
    
-<p>Connect with me on
+<p><font color="green">Connect with me on :left_speech_bubble: </font> </p>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/shriya-sankhyan-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
