@@ -22,7 +22,6 @@
 
 
 ### 🔥 Github Stats
-<p align="center"><img src="<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia&date_format=j%20M%5B%20Y%5" alt="shriyasankhyan"   /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=gruvbox" alt="shriyasankhyan"  /></p>
 <p align="center">
