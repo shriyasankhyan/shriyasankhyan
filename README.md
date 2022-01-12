@@ -33,13 +33,11 @@
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
-
 <p align = "center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia"/><br>
  </p>
  
 <br>
-
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
 
