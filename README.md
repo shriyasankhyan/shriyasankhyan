@@ -3,7 +3,6 @@
  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=734f96&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
  
- 
 ### About Me🚀
   Someone who knows enough physics/mechanics to confuse a chemist, enough chemistry to confuse a physicist/mechanical engineer and enough mathematics to confuse herself. -- Chemical Engineer🧪... </br>
    Passionate about Java👩‍💻
