@@ -25,10 +25,10 @@
 &emsp;
 -->
 
-<!-- ### 🔥 Github Stats 
+### 🔥 Github Stats 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyasankhyan&theme=algolia" alt="shriyasankhyan"  />
 </p>
-
+<!-- 
 <hr>
 <p align="center">
  <img align="center" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
