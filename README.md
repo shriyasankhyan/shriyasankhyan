@@ -40,7 +40,7 @@ Sophomore at NIT Hamirpur 👨‍🎓️
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyasankhyan&theme=algolia"/><br>
  </p>  -->
  
-<br>
+
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shriyasankhyan&theme=algolia&hide_border=true&area=true)
  -->
