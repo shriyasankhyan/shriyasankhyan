@@ -3,12 +3,10 @@
  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=734f96&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
  
-Sophomore at NIT Hamirpur 👨‍🎓️
- </br> 
- Passionate About Java and Web development 👩💻
- </br>
- Currently learning Data Structure and Algorithms 📖
- </br>
+- Sophomore at NIT Hamirpur 👨‍🎓️
+- Passionate About Java and Web development 👩💻
+- Currently learning Data Structure and Algorithms 📖
+
  
  <!--
 ### Connect with me on:left_speech_bubble:
