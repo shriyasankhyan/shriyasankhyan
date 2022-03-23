@@ -3,7 +3,7 @@
  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=734f96&size=30&lines=I+am+Shriya;)](https://git.io/typing-svg)
  
-- I am sophomore at NIT Hamirpur 👨‍🎓️
+- Sophomore at NIT Hamirpur 👨‍🎓️
 - Passionate About Java and Web development 👩💻
 - Currently learning Data Structure and Algorithms 📖
 
