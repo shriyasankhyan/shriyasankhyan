@@ -5,7 +5,7 @@
  
 - Sophomore at NIT Hamirpur 👨‍🎓️
 - Passionate About Java and Web development 👩💻
-- Currently learning Data Structure and Algorithms 📖
+- Currently learning Data Structure and Algorithms 📖 <hr>
 
  
  <!--
