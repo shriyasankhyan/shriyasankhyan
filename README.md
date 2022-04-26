@@ -7,7 +7,6 @@
 - Passionate About Java and Web Development 👩💻
 - Currently learning Data Structure and Algorithms 📖 <hr>
 
- 
 ### Connect with me on:left_speech_bubble:
 </br>	
 <a target="_blank" href="https://www.linkedin.com/in/shriya-sankhyan-6717151a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" width = "100" height = "30"></img></a>
