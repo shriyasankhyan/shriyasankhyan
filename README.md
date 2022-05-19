@@ -18,8 +18,6 @@
 &emsp;
 <a target="_blank" href="https://leetcode.com/shriyasankhyan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "100" height = "30" ></img></a>
 &emsp;
-<a target="_blank" href="https://codeforces.com/profile/shriyasankhyan"><img src="https://assets.codeforces.com/users/kguseva/comments/cf.png style=for-the-badge&logo=Codeforces&logoColor=black" width = "100" height = "30" ></img></a>
-&emsp;
 <a target="_blank" href="https://twitter.com/shriya_sankhyan"
 ><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "100" height = "30"></img></a>
 
